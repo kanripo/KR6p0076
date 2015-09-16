@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:02:53.566030
+#+DATE: 2015-08-30 21:02:54.038706
 #+TITLE: 依觀經等明般舟三昧行道往生讚
 #+PROPERTY: CBETA_ID T47n1981
 #+PROPERTY: ID KR6p0076
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 47, No. 1981
 #+PROPERTY: VOL 47
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6p0076_T_000-0448a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6p0076_T_001-0448a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1981¶
-
- 依觀經等明般舟三昧行道往生¶
+No. 1981¶
+依觀經等明般舟三昧行道往生¶
 讚(一卷)¶
 ¶
 比丘僧善導撰¶
@@ -996,7 +995,7 @@ No.1981¶
 　心想見彼彌陀身(無量樂)¶
 　地上莊嚴無億數(願往生)
 　寶樓林樹垂瓔珞(無量樂)¶
-　正坐跏趺往生想(願往生)
+　正坐跏跌往生想(願往生)
 　直注華池大會中(無量樂)¶
 　想入華中華合想(願往生)
 　即想華開見佛身(無量樂)¶
@@ -1198,7 +1197,7 @@ No.1981¶
 
 #+BEGIN_VERSE
 「　般舟三昧樂(願往生)
-　頓超生死出娑婆(無量樂)¶
+　頓超生死出裟婆(無量樂)¶
 　下品上生凡夫等(願往生)
 　具造十惡無餘善(無量樂)¶
 　增長無明但快意(願往生)
